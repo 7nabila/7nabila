@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Introduce me **Nabila**<br>
+
+I want to start my journey as a programmer here. Let's get acquainted. 
+
 <!--
 **7nabila/7nabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
